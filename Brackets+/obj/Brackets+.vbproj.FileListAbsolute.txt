@@ -1,0 +1,16 @@
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\bin\Debug\Bracket Master Plus.exe
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\bin\Debug\Bracket Master Plus.pdb
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\bin\Debug\Bracket Master Plus.xml
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\Bracket_Master_Plus.Form1.resources
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\Bracket_Master_Plus.Resources.resources
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\Brackets+.vbproj.GenerateResource.Cache
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\Bracket Master Plus.exe
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\Bracket Master Plus.xml
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\Bracket Master Plus.pdb
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\Bracket_Master_Plus.Form2.resources
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\Bracket_Master_Plus.Form3.resources
+C:\Users\Deshan Nawanjana\Desktop\Brackets+\Brackets+\obj\Debug\Bracket_Master_Plus.Form4.resources
+D:\My Projects\Visual Basic\Brackets+\Brackets+\obj\Debug\Bracket Master Plus.exe
+D:\My Projects\Visual Basic\Brackets+\Brackets+\obj\Debug\Bracket Master Plus.xml
+D:\My Projects\Visual Basic\Brackets+\Brackets+\obj\Debug\Bracket Master Plus.pdb
